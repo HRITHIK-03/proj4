@@ -1,0 +1,43 @@
+html{
+background-color: lightgrey;
+overflow: hidden;
+}
+.cm p{
+    margin: 20px 0px 0px 25px;
+    color: black;
+    font-weight: bold;
+}
+
+.rev p{
+    color: black;
+    font-weight: bold;
+}
+#p1{
+    margin: 25px 310px 20px 30px;
+}
+#p2{
+    margin: 25px 20px 20px 300px;
+}
+.rev{
+    display: flex;
+}
+
+.cm1{
+display: flex;
+}
+.cm2{
+    height:80px;
+    background-color: white;
+    margin: 20px 0px 0px 20px;
+    width: 150px;
+    padding: 10px 150px 10px 20px;
+    border-left: 20px solid lightgreen;
+    border-right: 4px solid grey;
+    border-bottom:4px solid grey;
+}
+#pmain1{
+    color: lightgreen;
+}
+#pmain2{
+    color: red;
+}

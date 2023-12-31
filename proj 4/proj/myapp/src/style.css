@@ -1,0 +1,50 @@
+html{
+    background-color: #000000e6;
+}
+.main{
+    color: black;
+    background-color: black;
+    margin: 6.6% 35.5%;
+    padding: 5vh 5vw;
+    text-align: center;
+    border-radius: 10px;
+}
+.start{
+    display: flex;
+    /* background-color: yellow; */
+    justify-content: center;
+    letter-spacing: 2px;
+    font-size: 1.3vw;
+}
+img{
+    height: 16vh;
+    width: 9vw;
+}
+.s1{
+    color: green;
+}
+.s2{
+    color: white;
+}
+.infield{
+    width: 13.5vw;
+    margin: 2vh -3vw;
+    padding: 1.3vh 1vw;
+    border-radius: 4px;
+}
+.loginb{
+    margin: 2vh 0vw;
+    padding: 1.4vh 6.7vw;
+    border-radius: 10px;
+    background-color: rgba(113, 207, 113, 0.845);
+    color: whitesmoke;
+    font-weight: bold;
+    cursor: pointer;
+}
+.loginb:hover{
+    background-color: green;
+}
+a{
+    color: white;
+    font-size: 0.8vw;
+}
